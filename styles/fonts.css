@@ -1,0 +1,48 @@
+/* Neue Machina Regular*/
+@font-face {
+    font-family: 'Neue Machina';
+    src: local(''),
+    url('../public/fonts/PPNeueMachina-Regular.otf') format('otf');
+}
+
+/* Editorial New Italic*/
+@font-face {
+    font-family: "Editorial New";
+    src: local(''),
+    url('../public/fonts/PPEditorialNew-Italic.otf') format('otf');
+}
+
+/* Netlife Bold <3 */
+@font-face {
+    font-family: "Netlife Bold";
+    src: local(''),
+    url('../public/fonts/Netlife-Bold.woff2') format('woff2');
+}
+
+/* Netlife Bold Italics <3 */
+@font-face {
+    font-family: "Netlife Bold Italics";
+    src: local(''),
+    url('../public/fonts/Netlife-BoldIta.woff2') format('woff2');
+}
+
+/* Netlife Lining <3 */
+@font-face {
+    font-family: "Netlife Lining";
+    src: local(''),
+    url('../public/fonts/Netlife-Lining.woff2') format('woff2');
+}
+
+/* Netlife Regular <3 */
+@font-face {
+    font-family: "Netlife Regular";
+    src: local(''),
+    url('../public/fonts/Netlife-Regular.woff2') format('woff2');
+}
+
+/* Netlife Regular Italics <3 */
+@font-face {
+    font-family: "Netlife Regular Italics";
+    src: local(''),
+    url('../public/fonts/Netlife-RegularIta.woff2') format('woff2');
+}
