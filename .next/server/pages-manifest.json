@@ -2,5 +2,6 @@
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
-  "/lottie/lelot": "pages/lottie/lelot.js"
+  "/lottie/lelot": "pages/lottie/lelot.js",
+  "/": "pages/index.js"
 }
